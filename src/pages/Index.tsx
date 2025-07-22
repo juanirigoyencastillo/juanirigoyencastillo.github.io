@@ -64,7 +64,7 @@ const projects: Project[] = [
     description: "Bioelectric signal amplification circuit using op-amps and filters to read and display heart electrical activity in real-time.",
     detailedDescription: "I built an EKG circuit that reads and displays the electrical activity of my heart. Using a combination of resistors, capacitors, and op-amp modules, I designed a signal chain that amplified and filtered the weak bioelectric signals coming from the electrodes. I used the Analog Discovery 2 to visualize the output waveform in real time and verify that the signal matched the expected pattern of a heartbeat. The circuit involved multiple stages—including high-pass and low-pass filters, and an instrumentation amplifier—to isolate and clean up the signal from noise.",
     technologies: ["Op-Amp Modules", "Resistors", "Capacitors", "Instrumentation Amplifier", "High-pass Filters", "Low-pass Filters", "Analog Discovery 2", "Signal Processing"],
-    image: "/juanirigoyencastillo.github.io/Personal_Website/EKGdata.jpg",
+    image: "https://github.com/juanirigoyencastillo/juanirigoyencastillo.github.io/blob/main/public/Personal_Website/EKGdata.jpg",
     learnings: [
       "This project taught me how sensitive and precise analog circuits need to be when working with bio-signals",
       "I gained hands-on experience designing active filters and chaining them together to control both gain and bandwidth",
