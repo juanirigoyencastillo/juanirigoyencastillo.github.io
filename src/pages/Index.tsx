@@ -170,7 +170,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent animate-fade-in">
-              Juan Irigoyen Castillo
+              Juan Irigoyen Castillo Hello from GitHub! 🚀</h1
             </h1>
             <h1>Hello from GitHub! 🚀</h1>
             <div className="flex space-x-6">
