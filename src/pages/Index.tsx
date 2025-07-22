@@ -172,6 +172,7 @@ const Index = () => {
             <h1 className="text-2xl font-bold bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent animate-fade-in">
               Juan Irigoyen Castillo
             </h1>
+            <h1>Hello from GitHub! 🚀</h1>
             <div className="flex space-x-6">
               <a href="#about" className="text-white/80 hover:text-white transition-all duration-300 hover:scale-105 font-medium">About</a>
               <a href="#projects" className="text-white/80 hover:text-white transition-all duration-300 hover:scale-105 font-medium">Projects</a>
@@ -193,7 +194,7 @@ const Index = () => {
               />
             </div>
             <h2 className="text-6xl font-bold text-white mb-6 animate-fade-in delay-200">
-              Hello, I'm Juan
+              Hello, I'm Juan Irigoyen Castillo
             </h2>
             <div className="flex justify-center items-center gap-4 mb-6 animate-fade-in delay-300">
               <span className="text-xl text-white/90 font-medium">Electrical Engineer from Stanford University</span>
