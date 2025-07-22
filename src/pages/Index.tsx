@@ -193,7 +193,7 @@ const Index = () => {
               />
             </div>
             <h2 className="text-6xl font-bold text-white mb-6 animate-fade-in delay-200">
-              Hello, I'm Juan Irigoyen Castillo
+              Hello, I'm Juan
             </h2>
             <div className="flex justify-center items-center gap-4 mb-6 animate-fade-in delay-300">
               <span className="text-xl text-white/90 font-medium">Electrical Engineer from Stanford University</span>
