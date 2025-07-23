@@ -199,9 +199,7 @@ const Index = () => {
               <Code className="text-blue-200 animate-pulse" size={24} />
             </div>
             <p className="text-xl text-white/80 mb-8 leading-relaxed animate-fade-in delay-400 max-w-3xl mx-auto">
-              Rising junior at Stanford University studying electrical engineering with the aspiration and ambitions of using 
-              <span className="font-semibold text-blue-200"> software and hardware</span> to innovate and create meaningful solutions 
-              focused on innovation and growth within hardware and software.
+              Electrical Engineer from Stanford University, focused on innovation and growth within hardware and software.
             </p>
             <div className="flex justify-center items-center gap-6 mb-8 animate-fade-in delay-500">
               <div className="flex items-center gap-2 text-white/70">
