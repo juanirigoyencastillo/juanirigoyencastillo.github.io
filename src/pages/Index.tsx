@@ -19,7 +19,7 @@ interface Project {
 const projects: Project[] = [
   {
     id: "1",
-    title: "Stanford Robosub",
+    title: "Stanford",
     description: "Autonomous submarine development with electrical and mechanical team contributions, focusing on underwater component integration.",
     detailedDescription: "As a member of both the electrical and mechanical teams, I contributed to developing the structure of our autonomous submarine, carefully balancing the integration of electrical components with materials suited for underwater conditions.",
     technologies: ["Circuitry", "KiCad", "Autocad (Fusion360)", "Welding", "Soldering", "Digital Multimeter", "Prototyping", "Design", "Laser Cut"],
